@@ -1,0 +1,8 @@
+div.jumbotron{
+ text-align: center;
+ background: none;
+}
+div.light{
+ background-color: #eceeef;
+ padding: 2em;
+}
