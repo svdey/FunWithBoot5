@@ -6,3 +6,19 @@ div.light{
  background-color: #eceeef;
  padding: 2em;
 }
+.dark{
+ background-color: #cccccc;
+ padding: 2rem;
+}
+.modelButton{
+ margin-top: 20px;
+}
+button.mdlButton{
+ background-color: red;
+ color: #ffffff;
+ display: block;
+ margin: auto;
+}
+h5.Model{
+ margin: auto;
+}
