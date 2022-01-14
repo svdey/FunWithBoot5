@@ -22,3 +22,22 @@ button.mdlButton{
 h5.Model{
  margin: auto;
 }
+.CardImg{
+ display: block;
+ margin: auto;
+}
+.morebtn{
+ display: block;
+ margin: auto;
+ width: 46%;
+}
+.ytModel{
+ width: 50rem;
+ height: 25rem;
+}
+.fab{
+ padding: 20px;
+}
+div.iconRap{
+ margin: auto;
+}
